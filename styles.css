@@ -1,0 +1,15 @@
+body {
+    background-color: bisque;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+h1 {
+    background-color: red;
+    color: antiquewhite;
+    text-align: center;
+}
+
+li {
+    background-color: antiquewhite;
+
+}
